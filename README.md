@@ -1,2 +1,2 @@
-# alt-detector-rewrite
+# Alt Detector
  🔍📅 Alt Detector bot using account dates!
