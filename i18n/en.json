@@ -1,0 +1,23 @@
+{
+  "AltDetector": {
+    "commands": {
+      "avatar": {
+        "embed": {
+          "title": "{username}'s Avatar"
+        }
+      },
+      "invite": {
+        "embed": {
+          "title": "Invite",
+          "description": "[**Click Here**]({invite_link})"
+        }
+      },
+      "privacy": {
+        "embed": {
+          "title": "Privacy Policy",
+          "description": "Click the below link to hover to Alt Detector's privacy policy:\n{github_link}"
+        }
+      }
+    }
+  }
+}
